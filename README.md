@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waqar Hussain.
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently working on bootstrap, php, wordpress, javascript, react.js and node.js.
-- 💞️ I’m looking to enterprise Collaboration.
+- 💞️ I’m looking for enterprise collaboration.
 - 📫 How to reach me 
 Linkedin, Insagram, Gmail and Fiver.
 
