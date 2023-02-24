@@ -5,9 +5,9 @@
 - 📫 How to reach me
 
 
-- Linkedin: https://www.linkedin.com/in/waqar-hussain1/  
- -Insagram: https://www.instagram.com/her_beard_boy/  
- -Gmail: waqaar.hussaiin@gmail.com  
+- Linkedin: https://www.linkedin.com/in/waqar-hussain1/ 
+- Insagram: https://www.instagram.com/her_beard_boy/  
+- Gmail: waqaar.hussaiin@gmail.com 
 
 
 <!---
