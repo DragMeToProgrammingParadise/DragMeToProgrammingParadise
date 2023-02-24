@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DragMeToProgrammingParadise
+- 👋 Hi, I’m Waqar Hussain.
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently working bootstrap, php, react.js, node.js
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working on bootstrap, php, wordpress, javascript, react.js and node.js.
+- 💞️ I’m looking to enterprise Collaboration.
 - 📫 How to reach me 
-Linkedin, Insagram and Fiver.
+Linkedin, Insagram, Gmail and Fiver.
 
 <!---
 DragMeToProgrammingParadise/DragMeToProgrammingParadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
