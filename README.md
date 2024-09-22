@@ -8,6 +8,7 @@
 - Linkedin: https://www.linkedin.com/in/waqar-hussain1/ 
 - Insagram: https://www.instagram.com/her_beard_boy/  
 - Gmail: waqaar.hussaiin@gmail.com 
+- Upwork: https://www.upwork.com/freelancers/~01fc17b33c9700af00
 
 
 <!---
